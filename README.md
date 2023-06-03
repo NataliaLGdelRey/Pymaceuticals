@@ -17,6 +17,7 @@ https://github.com/redeat17/Matplotlib-Challenge/blob/master/pymaceuticals_start
 https://github.com/LCHoffman/matplotlib-challenge/blob/main/Pymaceuticals/.ipynb_checkpoints/pymaceuticals_starter-checkpoint.ipynb
 https://github.com/rfpoulos/pymaceuticals/blob/master/pymaceuticals_starter.ipynb
 https://notebooks.githubusercontent.com/view/ipynb?browser=chrome&color_mode=auto&commit=e87e9f7e6c430de634a828c96791aa023526a013&device=unknown&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6d67656666726f792f4d6174706c6f746c69622d486f6d65776f726b2f653837653966376536633433306465363334613832386339363739316161303233353236613031332f6d61696e5f70796d61636575746963616c732e6970796e62&logged_in=false&nwo=mgeffroy%2FMatplotlib-Homework&path=main_pymaceuticals.ipynb&platform=android&repository_id=358480816&repository_type=Repository&version=99
+https://mratx.github.io/Matplotlib_Challenge/
 
 https://www.chegg.com/homework-help/questions-and-answers/would-calculate-iqr-using-information-picture-q114329923
 https://stackoverflow.com/questions/15235703/typeerror-unsupported-operand-types-for-str-and-str
